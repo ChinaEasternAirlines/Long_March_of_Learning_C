@@ -89,7 +89,7 @@ int main(void)
 }
 ```
 
-##🐍 另附赠纯正 Python 版本
+## 🐍 另附赠纯正 Python 版本
 
 ```Python
 x = int(input())
