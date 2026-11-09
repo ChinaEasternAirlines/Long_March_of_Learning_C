@@ -8,7 +8,7 @@ int main(void)
     int answer,a,b,equal,score = 0;
     /* answer为答案,a,b为两个整数,score顾名思义xd*/
     /*equal为1时表示加法，为2时表示减法，为3时表示乘法，为4时表示除法*/
-    printf("设计者 李富韬\n");
+    printf("设计者 InsupiovJapan\n");
     printf("版本号 Alpha 1.0\n");
     for(int i = 1;i <= 10;i++){
         equal = rand() % 4 + 1;
